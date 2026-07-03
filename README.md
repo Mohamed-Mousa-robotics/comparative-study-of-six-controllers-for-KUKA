@@ -16,4 +16,4 @@ the following figures demonstrate the comparative results of the 6 controllers.
 ![ctcresult](ctcresult.png)
 ![smcresult](smcresult.png)
 ![results](results.png)
-![results](results.png)
+![results2](results2.png)
