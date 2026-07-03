@@ -9,7 +9,7 @@ The six controllers that used to control the position of the simulated KUKA Robo
 # Objective
 study the performance for each controller by studying some characteristics, such as system behavior under varying disturbance levels, Integral of Time-Absolute Error (ITAE), Integral of Time Squared Error (ITSE), tuning effort, execution time, and real-time applicability. the tracking performance for the 6 cntrollers was studied the tracking circular trajectory. 
 # MATLAB Simulink Implementation
-the follwing figures presents some selected parts of the implementaion of some controolers using simulink environments.
+the follwing figures presents some selected parts of the simulink implementaion of some controolers using simulink environments.
 ![SMC](SMC.png)
 ![CTC](CTC.png)
 ![ADAPTIVENN](ADAPTIVENN.png)
