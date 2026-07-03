@@ -13,3 +13,7 @@ the follwing figures presents some selected parts of the implementaion of some c
 ![ADAPTIVENN](ADAPTIVENN.png)
 # Results
 the following figures demonstrate the comparative results of the 6 controllers.
+![ctcresult](ctcresult.png)
+![smcresult](smcresult.png)
+![results](results.png)
+![results](results.png)
